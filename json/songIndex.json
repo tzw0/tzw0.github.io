@@ -1,7 +1,19 @@
 {
-    "songs": [
-        "covid19",
-        "pengyou",
-        "perfect" 
+    "songs" :[
+        {
+            "id": 1,
+            "songname": "covid19",
+            "length": "100"
+        },
+        {
+            "id": 2,
+            "songname": "pengyou",
+            "length": "100"
+        },
+        {
+            "id": 3,
+            "songname": "perfect",
+            "length": "100"
+        }
     ]
 }
